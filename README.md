@@ -1,5 +1,6 @@
 # hello_world
-testing
+Begin of body of test
+
 new test with codigo facilito
 # Finished
 
