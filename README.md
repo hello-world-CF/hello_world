@@ -1,7 +1,7 @@
 # hello_world
-This is a hello world reporsitory example
+This is a hello world reporsitory example.
 
-new test with codigo facilito
+new test with codigo facilito.
 # Finished
 
 
