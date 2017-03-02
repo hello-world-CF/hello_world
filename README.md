@@ -1,5 +1,5 @@
 # hello_world
-Begin of body of test
+This is a hello world reporsitory example
 
 new test with codigo facilito
 # Finished
